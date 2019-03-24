@@ -35,13 +35,17 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 9,
-    "versionPublish": "4.9.7"
+    "versionPublish": "4.9.7",
+    "favicon": "@PROJECT_PATH@/assets/images/zeleny-logotip-1-128x114.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Бизнес онлайн с Vesta Organic",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
